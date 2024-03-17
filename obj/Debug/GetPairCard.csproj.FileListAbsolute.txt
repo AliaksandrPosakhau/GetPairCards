@@ -1,0 +1,13 @@
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\bin\Debug\GetPairCard.exe.config
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\bin\Debug\GetPairCard.exe
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\bin\Debug\GetPairCard.pdb
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\bin\Debug\sfml-audio.dll
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\bin\Debug\sfml-graphics.dll
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\bin\Debug\sfml-learning.dll
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\bin\Debug\sfml-system.dll
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\bin\Debug\sfml-window.dll
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\obj\Debug\GetPairCard.csproj.AssemblyReference.cache
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\obj\Debug\GetPairCard.csproj.CoreCompileInputs.cache
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\obj\Debug\GetPairCard.csproj.CopyComplete
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\obj\Debug\GetPairCard.exe
+C:\Users\ria_b\source\repos\GetPairCard\GetPairCard\obj\Debug\GetPairCard.pdb
